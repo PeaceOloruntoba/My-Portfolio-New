@@ -1,19 +1,19 @@
 import React from 'react'
-import Html from '../../public/assets/skills/html.png';
-import Css from '../../public/assets/skills/css.png';
-import Javascript from '../../public/assets/skills/javascript.png';
-import ReactImg from '../../public/assets/skills/react.png';
-import Tailwind from '../../public/assets/skills/tailwind.png';
-import Github from '../../public/assets/skills/github1.png';
-import Firebase from '../../public/assets/skills/firebase.png';
-import NextJS from '../../public/assets/skills/nextjs.png'
-import AWS from '../../public/assets/skills/aws.png';
-import Django from '../../public/assets/skills/django.png'
-import Python from '../../public/assets/skills/python.png'
-import Laravel from '../../public/assets/skills/laravel.png'
-import Figma from '../../public/assets/skills/figma.png'
-import Node from '../../public/assets/skills/node.png'
-import Mongo from '../../public/assets/skills/mongo.png'
+import Html from '../assets/skills/html.png';
+import Css from '../assets/skills/css.png';
+import Javascript from '../assets/skills/javascript.png';
+import ReactImg from '../assets/skills/react.png';
+import Tailwind from '../assets/skills/tailwind.png';
+import Github from '../assets/skills/github1.png';
+import Firebase from '../assets/skills/firebase.png';
+import NextJS from '../assets/skills/nextjs.png'
+import AWS from '../assets/skills/aws.png';
+import Django from '../assets/skills/django.png'
+import Python from '../assets/skills/python.png'
+import Laravel from '../assets/skills/laravel.png'
+import Figma from '../assets/skills/figma.png'
+import Node from '../assets/skills/node.png'
+import Mongo from '../assets/skills/mongo.png'
 
 const Skills = () => {
   return (

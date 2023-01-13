@@ -20,8 +20,8 @@ const netflix = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>I built this application in React JS and is hosted on GitHub pages.This app features user authentication with firebase as well as the firestore cloud storage database. This application is pulling movie data from an the IMDB movie API and displaying different categories. It features horizontal sliding and a featured selection. The useContext hook is also being implemented for app-wide state management.</p>
-          <a href=''target='_blank'rel='noreferrer'><button className='px-8 py-2 mt-4 mr-8'>Code</button></a>
-          <a href='' target='_blank' rel='noreferrer'><button className='px-8 py-2 mt-4'>Demo</button></a>
+          <a href='/'target='_blank'rel='noreferrer'><button className='px-8 py-2 mt-4 mr-8'>Code</button></a>
+          <a href='/' target='_blank' rel='noreferrer'><button className='px-8 py-2 mt-4'>Demo</button></a>
         </div>
         <div className='col-span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl py-4'>
           <div className='p-2'>

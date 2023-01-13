@@ -1,9 +1,9 @@
-import React, {useState} from 'react'
+import React from 'react'
 import { AiOutlineMail } from 'react-icons/ai'
 import { BsFillPersonLinesFill } from 'react-icons/bs'
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa'
 import { HiOutlineChevronDoubleUp } from 'react-icons/hi'
-import ContactImg from '../../public/srcs/contact.png'
+import ContactImg from '../assets/contact.png'
 
 const Contact = () => {
   return (
@@ -26,12 +26,12 @@ const Contact = () => {
                     <div>
                         <p className='uppercase pt-8'>Connect with me</p>
                         <div className='flex items-center justify-between py-4'>
-                            <a href='' target='_blank' rel='noreferrer'>
+                            <a href='/' target='_blank' rel='noreferrer'>
                                 <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                                     <FaLinkedinIn />
                                 </div>
                             </a>
-                            <a href='' target='_blank' rel='noreferrer'>
+                            <a href='/' target='_blank' rel='noreferrer'>
                                 <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                                     <FaGithub />
                                 </div>
